@@ -1,0 +1,9 @@
+platformName: Android
+platformVersion: '7'
+deviceName: 127.0.0.1:62001
+appPackage: cn.bookln.saas.sjj8
+appActivity: cn.bookln.saas.MainActivity
+noReset: true
+ip: 127.0.0.1
+port: 4723
+automationName : uiautomator2

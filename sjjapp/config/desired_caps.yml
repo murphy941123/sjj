@@ -1,0 +1,11 @@
+platformName: Android
+platformVersion: '10'
+deviceName: EAM4C20403002732
+appPackage: cn.bookln.saas.sjj8
+appActivity: cn.bookln.saas.MainActivity
+noReset: true
+unlockType: password
+unlockKey: '000000'
+ip: 127.0.0.1
+port: 4723
+automationName : uiautomator2
